@@ -14,6 +14,11 @@ namespace practice
             Console.WriteLine("Answer is = " + a);
             Console.WriteLine("Answer is = " + a);
             Console.WriteLine("Answer is = " + a);
+
+            Console.WriteLine("Answer is = " + a);
+            Console.WriteLine("Answer is = " + a);
+            Console.WriteLine("Answer is = " + a);
+            Console.WriteLine("Answer is = " + a);
         }
     }
 
