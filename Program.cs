@@ -11,6 +11,9 @@ namespace practice
         public static void Main(string[] args)
         {
             Console.WriteLine("Answer is = "+ a );
+            Console.WriteLine("Answer is = " + a);
+            Console.WriteLine("Answer is = " + a);
+            Console.WriteLine("Answer is = " + a);
         }
     }
 
